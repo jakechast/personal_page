@@ -1,0 +1,40 @@
+project:
+  type: website
+
+website:
+  title: "Personal Page"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: papers.qmd
+        text: Papers
+      - href: blog.qmd
+        text: Blog
+      - about.qmd
+  sidebar:
+    style: "docked"
+    logo: "./images/user_image.png"
+    search: true
+    collapse-level: 2
+    contents:
+      - icon: github
+        text: Github
+        url: https://github.com/IntelligentSystemsLaboratory
+      - icon: twitter
+        text: Twitter
+        url: https://twitter.com/Bristol_AI_CDT
+      - text: "{{< fa envelope >}} Email"
+        url: mailto:ck22122@bristol.ac.uk
+      - text: "{{< ai orcid >}} ORCID"
+        url: https://orcid.org/<orcid-id>
+      - text: "{{< ai google-scholar >}} Google Scholar"
+        url: https://scholar.google.com/citations?user=<google-scholar-user>
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
