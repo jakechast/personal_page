@@ -32,9 +32,9 @@ website:
         text: Twitter
         url: https://twitter.com/Bristol_AI_CDT
       - icon: envelope
-        text: "{{< fa envelope >}} Email"
+        text: "Email"
         url: mailto:ck22122@bristol.ac.uk
-      - text: "{{< ai google-scholar >}} Google Scholar"
+      - text: "Google Scholar"
         url: https://scholar.google.com/citations?user=<google-scholar-user>
       - text: Pro-AI CDT
         url: https://www.bristol.ac.uk/cdt/interactive-ai/
