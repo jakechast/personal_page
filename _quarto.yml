@@ -7,11 +7,18 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: research.qmd
+        text: Research
       - href: papers.qmd
         text: Papers
+      - href: conferences.qmd
+        text: Conferences
       - href: blog.qmd
         text: Blog
-      - about.qmd
+      - href: about.qmd
+        text: About Me
   sidebar:
     style: "docked"
     logo: "./images/user_image.png"
@@ -24,12 +31,13 @@ website:
       - icon: twitter
         text: Twitter
         url: https://twitter.com/Bristol_AI_CDT
-      - text: "{{< fa envelope >}} Email"
+      - icon: envelope
+        text: "{{< fa envelope >}} Email"
         url: mailto:ck22122@bristol.ac.uk
-      - text: "{{< ai orcid >}} ORCID"
-        url: https://orcid.org/<orcid-id>
       - text: "{{< ai google-scholar >}} Google Scholar"
         url: https://scholar.google.com/citations?user=<google-scholar-user>
+      - text: Pro-AI CDT
+        url: https://www.bristol.ac.uk/cdt/interactive-ai/
 format:
   html:
     theme: cosmo
