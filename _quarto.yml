@@ -7,18 +7,16 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: projects.qmd
-        text: Projects
       - href: research.qmd
         text: Research
+      - href: projects.qmd
+        text: Projects
       - href: papers.qmd
         text: Papers
       - href: conferences.qmd
         text: Conferences
       - href: blog.qmd
         text: Blog
-      - href: about.qmd
-        text: About Me
   sidebar:
     style: "docked"
     logo: "./images/user_image.png"
