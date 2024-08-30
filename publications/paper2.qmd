@@ -1,7 +1,8 @@
 ---
 title: "A Case Study in Practice-Oriented Artificial Intelligence"
 bibliography: publications.bib
-nocite: @casestudy
+nocite: |
+  @casestudy
 ---
 
 This journal paper presents a case study in practice-oriented AI...
