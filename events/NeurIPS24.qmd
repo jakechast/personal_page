@@ -1,0 +1,7 @@
+---
+title: "2024 Neural Information Processing Conference"
+---
+
+I was fortunate to present my work at a NeurIPS'24 workshop. 
+
+{{< var todo >}}

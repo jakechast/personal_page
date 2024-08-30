@@ -1,0 +1,7 @@
+---
+title: "BIAS 2025 Summer School"
+---
+
+I was a member of the organising committee for the annual Bristol Interactive AI Summer School. 
+
+{{< var todo >}}

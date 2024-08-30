@@ -1,5 +1,0 @@
----
-title: "First Conference"
----
-
-This is a post about my first conference.
