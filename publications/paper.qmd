@@ -1,13 +1,10 @@
 ---
-title: "First paper"
+title: "A Case Study in Practice-Oriented Artificial Intelligence"
 bibliography: publications.bib
+nocite: @casestudy
 ---
 
-This is my first paper.
-
-[@smith2024ai]
-
-### References
+This journal paper presents a case study in practice-oriented AI...
 
 ::: {#refs}
 :::

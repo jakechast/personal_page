@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "My Publications"
 listing:
     contents: publications
     sort: date desc
