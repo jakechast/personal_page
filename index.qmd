@@ -6,4 +6,8 @@ author: "A.N. Other"
 My name is {{< meta author >}} and I am a PhD student at the {{< var cdt-full >}}. 
 This is my professional website where I describe my main research, ongoing projects, publications, and other AI-related activities. 
 
+{{< var todo >}}
+
+---
+
 This website is authored in [Quarto](https://quarto.org/docs/websites).
