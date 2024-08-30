@@ -11,8 +11,8 @@ website:
         text: Research
       - href: projects.qmd
         text: Projects
-      - href: papers.qmd
-        text: Papers
+      - href: publications.qmd
+        text: Publications
       - href: conferences.qmd
         text: Conferences
       - href: blog.qmd
