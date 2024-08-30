@@ -3,3 +3,5 @@ title: "Projects"
 listing:
     contents: projects
 ---
+
+Here you find details of AI-related projects I am or have been involved in. 
