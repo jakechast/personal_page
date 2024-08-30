@@ -1,7 +1,7 @@
 ---
-title: "Projects"
+title: "AI-Related Projects"
 listing:
     contents: projects
 ---
 
-Here you find details of AI-related projects I am or have been involved in. 
+Click on one of the links below to find out about AI-related projects I am or have been involved in. 
