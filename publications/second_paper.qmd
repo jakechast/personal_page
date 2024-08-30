@@ -1,5 +1,0 @@
----
-title: "Second paper"
----
-
-This is my second paper.

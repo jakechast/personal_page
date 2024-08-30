@@ -1,10 +1,10 @@
 ---
-title: "A Case Study in Practice-Oriented Artificial Intelligence"
+title: "A Methodology for Practice-Oriented AI"
 bibliography: publications.bib
-nocite: @casestudy
+nocite: @A Methodology for Practice-Oriented AI
 ---
 
-This journal paper presents a case study in practice-oriented AI...
+This conference paper presents a methodology for developing practice-oriented AI applications...
 
 ::: {#refs}
 :::
