@@ -2,7 +2,5 @@
 title: "Summer Research Project" 
 ---
 
-### Summer Research Project
-
-The Summer project is a pilot project or proof-of-principle for the PhD proper. 
+At the end of the Foundation Year I carry out a pilot project for the PhD proper. 
 Mine is about ...

@@ -2,6 +2,4 @@
 title: "Another Project" 
 ---
 
-### Another Project
-
 {{< var todo >}}
