@@ -2,6 +2,7 @@
 title: "Events"
 listing:
     contents: events
+    sort: "date desc"
 ---
 
 AI researchers attend many academic events, such as conferences, workshops, summer schools etc., to advertise their work and learn about the latest developments. Here I keep track of the relevant events I have attended or helped organise. 
