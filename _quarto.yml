@@ -37,7 +37,7 @@ website:
       - text: "Google Scholar"
         url: https://scholar.google.com/citations?user=<google-scholar-user>
       - text: Pro-AI CDT
-        url: https://www.bristol.ac.uk/cdt/interactive-ai/
+        url: https://www.bristol.ac.uk/cdt/practice-oriented-ai/
 format:
   html:
     theme: cosmo
