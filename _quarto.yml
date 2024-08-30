@@ -13,8 +13,8 @@ website:
         text: Projects
       - href: publications.qmd
         text: Publications
-      - href: conferences.qmd
-        text: Conferences
+      - href: events.qmd
+        text: Events
       - href: blog.qmd
         text: Blog
   sidebar:

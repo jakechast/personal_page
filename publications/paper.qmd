@@ -2,10 +2,12 @@
 title: "A Methodology for Practice-Oriented AI"
 bibliography: publications.bib
 nocite: | 
-  @A Methodology for Practice-Oriented AI
+  @methodology
 ---
 
 This conference paper presents a methodology for developing practice-oriented AI applications...
+
+{{< var todo >}}
 
 ::: {#refs}
 :::

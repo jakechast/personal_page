@@ -14,7 +14,7 @@ Within the broad area of practice-oriented AI, my current research interests foc
 
 {{< var todo >}}
 
-### Relevant research done by others
+### Research by others I'm building on
 
 {{< var todo >}}
 
