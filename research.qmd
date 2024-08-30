@@ -4,4 +4,17 @@ title: "Research"
 
 Practice-oriented AI is about bridging the gap between between complex problem domains such as those found in science and research, and AI algorithms and techniques that could be used to solve problems in those domains. 
 
+Within the broad area of practice-oriented AI, my current research interests focus on ...
+
+### My current research within the CDT
+
 {{< var todo >}}
+
+### Relevant research I have done previously
+
+{{< var todo >}}
+
+### Relevant research done by others
+
+{{< var todo >}}
+
