@@ -1,5 +1,13 @@
 ---
 title: "First paper"
+bibliography: publications.bib
 ---
 
 This is my first paper.
+
+[@smith2024ai]
+
+### References
+
+::: {#refs}
+:::
