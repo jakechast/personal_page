@@ -4,7 +4,7 @@
 This is a repository that contains a personal page template for Pro-AI CDT students. The repository contains a basic
 (Quarto)[https://quarto.org/] aplication and a Github action to update and deploy at every successful push in your local repository.
 
-Its recomended to hava at least an overview about Quarto and how qmd files work [here](https://quarto.org/).
+Its recomended to hava at least an overview about Quarto and how qmd files work (here)[https://quarto.org/].
 
 ## Sections
 
