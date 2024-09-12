@@ -6,6 +6,22 @@ This is a repository that contains a personal page template for Pro-AI CDT stude
 
 Its recomended to hava at least an overview about Quarto and how qmd files work [here](https://quarto.org/) .
 
+## Important Files
+
+### _quarto.yml
+
+The _quarto.yml file plays a crucial role in configuring and managing Quarto projects. It's a central configuration file that allows you to define global settings and options for the entire project. These settings streamline project organization, customization, and output generation across multiple documents.
+
+## Quarto Markdown 
+
+Quarto Markdown is an extended version of Markdown used in the Quarto framework, allowing you to write documents, presentations, websites, and reports that include text, code, and interactive elements. Quarto Markdown builds on standard Markdown syntax by adding support for more advanced features, especially in the context of data science, reproducible research, and technical writing.
+
+More information [here](https://quarto.org/docs/authoring/markdown-basics.html)
+
+### _variables.yml
+
+This file is not a default quarto file. It was create to store global variables for our project. Feel free to add new ones or modify the ones we created.
+
 ## Sections
 
 ### Home
