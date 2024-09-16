@@ -1,14 +1,14 @@
 # Personal Page
 
 ## Introduction
-This is a repository that contains a personal page template for Pro-AI CDT students. The repository contains a basic
-[here](https://quarto.org/) aplication and a Github action to update and deploy at every successful push in your local repository.
+
+This is a repository that contains a personal page template for Pro-AI CDT students. The repository contains a basic [Quarto](https://quarto.org/) web application and a GitHub action to update and deploy at every successful push in your local repository.
 
 Its recomended to hava at least an overview about Quarto and how qmd files work [here](https://quarto.org/) .
 
 ## Quarto Markdown 
 
-Quarto Markdown is an extended version of Markdown used in the Quarto framework, allowing you to write documents, presentations, websites, and reports that include text, code, and interactive elements. Quarto Markdown builds on standard Markdown syntax by adding support for more advanced features, especially in the context of data science, reproducible research, and technical writing.
+Quarto Markdown is an extended version of Markdown used in the Quarto framework, allowing you to write documents, presentations, websites, and reports that include text, code, and interactive elements. It builds on standard Markdown syntax by adding support for more advanced features, especially in the context of data science, reproducible research, and technical writing.
 
 More information [here](https://quarto.org/docs/authoring/markdown-basics.html)
 
@@ -16,13 +16,13 @@ More information [here](https://quarto.org/docs/authoring/markdown-basics.html)
 
 ### _quarto.yml
 
-The _quarto.yml file is essential for configuring and managing Quarto projects. It serves as a central configuration file where you can define global settings and options for the entire project. This helps to simplify project organization, customization, and the generation of outputs across multiple documents.
+The _quarto.yml file is essential for configuring and managing Quarto projects. It serves as a central configuration file where you can define global settings and options for the entire project. This simplifies project organization, customization, and the generation of outputs across multiple documents.
 
 More information [here](https://quarto.org/docs/projects/profiles.html#profile-configuration)
 
 ### _variables.yml
 
-This file is not a default Quarto file; it was created specifically to store global variables for our project. You're welcome to add new variables or modify the ones we've already set up.
+This file is not a default Quarto file; it was created specifically to store global variables for our project. You are welcome to add new variables or modify the ones that have already been set up.
 
 More information [here](https://quarto.org/docs/authoring/variables.html)
 
@@ -50,7 +50,7 @@ To create new entries, complete each of the pre-populated sections with the rele
 
 ### Papers
 
-This section provides details about the papers you've written during your PhD. Each entry in the listing is created by adding new .qmd files to the publications folder. To organize your entries, refer to the examples within the folder.
+This section provides details about the papers you have written during your PhD. Each entry in the listing is created by adding new .qmd files to the publications folder. To organize your entries, refer to the examples within the folder.
 
 ### Conferences
 
@@ -58,4 +58,4 @@ This section is intended for sharing your experiences from conferences attended 
 
 ### Blog
 
-You can also write blog posts about your experiences as a PhD student in Pro-AI CDT. To create a new post, simply add a .qmd file to the blogposts folder. Follow the sample entries in the folder for guidance on structuring your posts.
+You can also write blog posts about your experiences as a PhD student in the Pro-AI CDT. To create a new post, simply add a `.qmd` file to the blogposts folder. Follow the sample entries in the folder for guidance on structuring your posts.
