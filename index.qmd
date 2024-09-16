@@ -1,6 +1,6 @@
 ---
 title: "My CDT student Homepage"
-author: "A.N. Other"
+author: "A.N. Other (edit at the top of index.gmd)"
 ---
 
 My name is {{< meta author >}} and I am a PhD student at the {{< var cdt-full >}}. 
