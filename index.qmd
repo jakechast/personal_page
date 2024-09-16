@@ -1,10 +1,10 @@
 ---
-title: "CDT student homepage"
-author: "A.N. Other"
+title: "My research in Practice-Oriented Artificial Intelligence"
+author: "A.N. Other (edit at the top of index.qmd)"
 ---
 
 My name is {{< meta author >}} and I am a PhD student at the {{< var cdt-full >}}. 
-This is my professional website where I describe my main research, ongoing projects, publications, and other AI-related activities. 
+This is my professional website where I describe my main research area, ongoing projects, publications, and other AI-related activities. 
 
 {{< var todo >}}
 
