@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Here I collect my blog posts about current issues in AI research.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnother blogpost example\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBlogpost Example\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "events/NeurIPS24.html",
+    "href": "events/NeurIPS24.html",
+    "title": "2024 Neural Information Processing Conference",
+    "section": "",
+    "text": "I was fortunate to present my work at a NeurIPS’24 workshop.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My research in Practice-Oriented Artificial Intelligence",
+    "section": "",
+    "text": "My name is Jake Chastney and I am a PhD student at the UKRI AI Centre for Doctoral Training in Practice-Oriented Artificial Intelligence. This is my professional website where I describe my main research area, ongoing projects, publications, and other AI-related activities.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum\n\nThis website is authored in Quarto."
+  },
+  {
+    "objectID": "projects/research_project.html",
+    "href": "projects/research_project.html",
+    "title": "Another Project",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+  },
+  {
+    "objectID": "publications/paper.html",
+    "href": "publications/paper.html",
+    "title": "A Methodology for Practice-Oriented AI",
+    "section": "",
+    "text": "This conference paper presents a methodology for developing practice-oriented AI applications…\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum\n\n\nOther, A. N., and S. U. Pervisor. 2022. “A Methodology for Practice-Oriented AI.” In European Conference on Artificial Intelligence, 1234–56."
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
+    "section": "",
+    "text": "AI researchers attend many academic events, such as conferences, workshops, summer schools etc., to advertise their work and learn about the latest developments. Here I keep track of the relevant events I have attended or helped organise.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2024 Neural Information Processing Conference\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBIAS 2025 Summer School\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blogposts/post.html",
+    "href": "blogposts/post.html",
+    "title": "Another blogpost example",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Practice-oriented AI is about bridging the gap between between complex problem domains such as those found in science and research, and AI algorithms and techniques that could be used to solve problems in those domains.\nWithin the broad area of practice-oriented AI, my current research interests focus on …\n\nMy current research within the CDT\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum\n\n\nRelevant research I have done previously\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum\n\n\nResearch by others I’m building on\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+  },
+  {
+    "objectID": "blogposts/another_post.html",
+    "href": "blogposts/another_post.html",
+    "title": "Blogpost Example",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "objectID": "publications/paper2.html",
+    "href": "publications/paper2.html",
+    "title": "A Case Study in Practice-Oriented Artificial Intelligence",
+    "section": "",
+    "text": "This journal paper presents a case study in practice-oriented AI…\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum\n\n\nOther, A. N., and S. U. Pervisor. 2024. “A Case Study in Practice-Oriented Artificial Intelligence.” Artificial Intelligence: Theory and Practice 12 (3): 245–60. https://doi.org/10.1234/aitp.2024.0312."
+  },
+  {
+    "objectID": "projects/summer_project.html",
+    "href": "projects/summer_project.html",
+    "title": "Summer Research Project",
+    "section": "",
+    "text": "At the end of the Foundation Year I carry out a pilot project for the PhD proper. Mine is about …"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "AI-Related Projects",
+    "section": "",
+    "text": "Click on one of the headers below to find out about AI-related projects I am or have been involved in.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSummer Research Project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnother Project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "My Publications",
+    "section": "",
+    "text": "I have (co-)authored the following workshop, conference and journal papers. Click through to find out more and see a full citation.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA Case Study in Practice-Oriented Artificial Intelligence\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA Methodology for Practice-Oriented AI\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "events/BIAS25.html",
+    "href": "events/BIAS25.html",
+    "title": "BIAS 2025 Summer School",
+    "section": "",
+    "text": "I was a member of the organising committee for the annual Bristol Interactive AI Summer School.\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+  }
+]
