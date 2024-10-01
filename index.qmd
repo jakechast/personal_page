@@ -1,6 +1,6 @@
 ---
 title: "My research in Practice-Oriented Artificial Intelligence"
-author: "A.N. Other (edit at the top of index.qmd)"
+author: "Jake Chastney"
 ---
 
 My name is {{< meta author >}} and I am a PhD student at the {{< var cdt-full >}}. 
