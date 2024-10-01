@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "A.N. Other's academic homepage (edit in _quarto.yml)"
+  title: "Jake Chastney's academic homepage (edit in _quarto.yml)"
   navbar:
     left:
       - href: index.qmd
